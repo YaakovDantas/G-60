@@ -1,0 +1,13 @@
+{
+    "name": "g60/eyeblock",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "cloudmersive/cloudmersive_imagerecognition_api_client": "^1.5",
+        "intervention/image": "^2.7"
+    }
+}
